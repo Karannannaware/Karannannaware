@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://karannk5.netlify.app/](https://karannk5.netlify.app/)
 
-- 📫 How to reach me **karannannavare3gmail.com**
+- 📫 How to reach me **karannannavare3@gmail.com**
 
 - ⚡ Fun fact **I am Developer🧑🏿‍💻**
 
