@@ -5,10 +5,7 @@
 
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<p align="left"><img 
-
-  <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karannannaware&label=Profile%20views&color=0e75b6&style=flat" alt="karannannaware" /> </p>
+<p align="left"><img  src="https://komarev.com/ghpvc/?username=karannannaware&label=Profile%20views&color=0e75b6&style=flat" alt="karannannaware" /> </p>
 
 - 🌱 currently in my Third year , As of now I am focused on **Full Stack Web Development and Java Programming.⚡**
 
