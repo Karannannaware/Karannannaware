@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **karannannavare3@gmail.com**
 
-- ⚡ Fun fact **I am Developer🧑🏿‍💻**
+- ⚡ Fun fact **Rush the code in your way**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
