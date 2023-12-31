@@ -1,3 +1,5 @@
+![MasterHead](https://s5.gifyu.com/images/Si39Q.png)
+
 ![logo](https://github.com/Karannannaware/Karannannaware/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Karan Nannaware</h1>
 <h3 align="center">A passionate Web Developer</h3>
