@@ -9,7 +9,7 @@
 
 - 🌱 currently in my Third year , As of now I am focused on **Full Stack Web Development and Java Programming.⚡**
 
-- 👨‍💻 All of my projects are available at [https://karannk5.netlify.app/](https://karannk5.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://karannannaware.netlify.app/](https://karannk5.netlify.app/)
 
 - 📫 How to reach me **karannannavare3@gmail.com**
 
