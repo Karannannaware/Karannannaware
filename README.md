@@ -44,7 +44,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/power--bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/tableau-%2300C4CC.svg?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/excel-%2300C4CC.svg?style=for-the-badge&logo=microsoft-excel&logoColor
+![Excel](https://img.shields.io/badge/excel-%2300C4CC.svg?style=for-the-badge&logo=microsoft-excel&logoColor=green)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Karannannaware&show_icons=true&locale=en&layout=compact" alt="Karannannaware" />
 
