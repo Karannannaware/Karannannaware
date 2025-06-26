@@ -47,7 +47,10 @@
 ![Power BI](https://img.shields.io/badge/power--bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/tableau-%2300C4CC.svg?style=for-the-badge&logo=tableau&logoColor=orange)
 ![Excel](https://img.shields.io/badge/excel-%2300C4CC.svg?style=for-the-badge&logo=microsoft-excel&logoColor=darkgreen)
-![Machine Learningl](https://img.shields.io/badge/excel-%2300C4CC.svg?style=for-the-badge&logo=microsoft-excel&logoColor=darkblue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
 
