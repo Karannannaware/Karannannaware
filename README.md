@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Karan Nannaware</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
@@ -8,7 +6,7 @@
 <p align="left"><img  src="https://komarev.com/ghpvc/?username=karannannaware&label=Profile%20views&color=0e75b6&style=flat" alt="karannannaware" /> </p>
 
 - 🎓 Recently graduated in 2025 with a degree in Information Technology.  
-- 🌱 Currently focused on **Full Stack Development** and **Data Analytics**. ⚡
+- 🌱 Currently focused on **Full Stack Development** ⚡
 
 - 👨‍💻 All of my projects are available at [https://karannannaware.netlify.app/](https://karannannaware.netlify.app/)
 
@@ -37,19 +35,8 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-### Data Analysis & Visualization:
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/power--bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/tableau-%2300C4CC.svg?style=for-the-badge&logo=tableau&logoColor=orange)
-![Excel](https://img.shields.io/badge/excel-%2300C4CC.svg?style=for-the-badge&logo=microsoft-excel&logoColor=darkgreen)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-
-
+![Excel](https://img.shields.io/badge/excel-%2300C4CC.svg?style=for-the-badge&logo=microsoft-excel&logoColor=darkgreen)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Karannannaware&show_icons=true&locale=en&layout=compact" alt="Karannannaware" />
